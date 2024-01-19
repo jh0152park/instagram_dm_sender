@@ -72,3 +72,5 @@ def extract_direct_message(data):
 
     return DirectMessage(**data)
 ```
+
+References: https://github.com/subzeroid/instagrapi/issues/1706
