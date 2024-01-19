@@ -1,2 +1,9 @@
-# instagram_dm_sender
-instagram_dm_sender
+### Installation
+
+```
+pip install instagrapi
+```
+
+If occurred `No module named 'PIL'` then try to install `npm install pollow`
+
+### [Doc](https://github.com/subzeroid/instagrapi?tab=readme-ov-file)
